@@ -1,0 +1,6 @@
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Memory\Memory\bin\Debug\Memory.exe.config
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Memory\Memory\bin\Debug\Memory.exe
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Memory\Memory\bin\Debug\Memory.pdb
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Memory\Memory\obj\Debug\Memory.exe
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Memory\Memory\obj\Debug\Memory.pdb

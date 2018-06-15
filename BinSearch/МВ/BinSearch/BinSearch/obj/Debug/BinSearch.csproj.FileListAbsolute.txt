@@ -1,0 +1,6 @@
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\BinSearch\BinSearch\obj\Debug\BinSearch.csprojResolveAssemblyReference.cache
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\BinSearch\BinSearch\bin\Debug\BinSearch.exe.config
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\BinSearch\BinSearch\bin\Debug\BinSearch.exe
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\BinSearch\BinSearch\bin\Debug\BinSearch.pdb
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\BinSearch\BinSearch\obj\Debug\BinSearch.exe
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\BinSearch\BinSearch\obj\Debug\BinSearch.pdb

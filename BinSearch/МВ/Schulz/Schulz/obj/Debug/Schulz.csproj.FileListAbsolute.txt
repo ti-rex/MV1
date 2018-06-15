@@ -1,0 +1,6 @@
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Schulz\Schulz\bin\Debug\Schulz.exe.config
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Schulz\Schulz\bin\Debug\Schulz.exe
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Schulz\Schulz\bin\Debug\Schulz.pdb
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Schulz\Schulz\obj\Debug\Schulz.csprojResolveAssemblyReference.cache
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Schulz\Schulz\obj\Debug\Schulz.exe
+E:\Информационная база Владимира Слобцова\Школота\УрФУ 5 курс\МВ\Schulz\Schulz\obj\Debug\Schulz.pdb
